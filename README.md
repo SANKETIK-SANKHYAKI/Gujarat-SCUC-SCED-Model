@@ -114,10 +114,7 @@ Minimize total operating cost:
 
 ---
 
-## Developed By
 
-**Surjeet Chauhan** | Certified Energy Manager | June 2026  
-Academic Licence: GAMSPy Academic Network GPA112384
 ## Visualizations
 
 ### Fig 1 — 24-Hour Generation Dispatch Stack
@@ -137,3 +134,8 @@ Academic Licence: GAMSPy Academic Network GPA112384
 
 ### Fig 6 — Zonal Analysis
 ![Zonal Analysis](Fig6_Zonal_Analysis.png)
+
+## Developed By
+
+**Surjeet Chauhan** | Certified Energy Manager | June 2026  
+Academic Licence: GAMSPy Academic Network GPA112384
