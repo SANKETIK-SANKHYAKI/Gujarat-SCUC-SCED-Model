@@ -118,3 +118,22 @@ Minimize total operating cost:
 
 **Surjeet Chauhan** | Certified Energy Manager | June 2026  
 Academic Licence: GAMSPy Academic Network GPA112384
+## Visualizations
+
+### Fig 1 — 24-Hour Generation Dispatch Stack
+![Dispatch Stack](Fig1_Dispatch_Stack.png)
+
+### Fig 2 — Unit Commitment Heatmap (47 × 96 blocks)
+![Commitment Heatmap](Fig2_Commitment_Heatmap.png)
+
+### Fig 3 — Merit Order Curve
+![Merit Order](Fig3_Merit_Order.png)
+
+### Fig 4 — Cost Breakdown by Generator
+![Cost Breakdown](Fig4_Cost_Breakdown.png)
+
+### Fig 5 — System Metrics (Load vs Generation)
+![System Metrics](Fig5_System_Metrics.png)
+
+### Fig 6 — Zonal Analysis
+![Zonal Analysis](Fig6_Zonal_Analysis.png)
